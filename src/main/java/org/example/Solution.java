@@ -2,7 +2,14 @@ package org.example;
 
 public class Solution {
     public String longestCommonPrefix(String[] strs) {
-
+        System.out.println();
+System.out.println();
+System.out.println();
+System.out.println();
+System.out.println();
+System.out.println();
+System.out.println();
+System.out.println();
         if(strs.length == 0) {
             return "";
         }
